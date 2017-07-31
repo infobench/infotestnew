@@ -10,6 +10,7 @@ public class InfotestnewTestSuite extends WebDriverTestCase {
 	public void test() {
 		//TODO: call test steps
 		
+		getDriver().get("https://www.google.com");
 		
 	}
 
