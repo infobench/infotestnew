@@ -11,6 +11,7 @@ public class InfotestnewTestSuite extends WebDriverTestCase {
 		//TODO: call test steps
 		
 		getDriver().get("https://www.google.com");
+		System.out.println("helloooooo");
 		
 	}
 
